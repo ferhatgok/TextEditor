@@ -1,0 +1,13 @@
+C:\Users\Casper\Desktop\Egeders pdfleri\Final\Görsel Programlama\61190000076-GP1-IO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Casper\Desktop\Egeders pdfleri\Final\Görsel Programlama\61190000076-GP1-IO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Casper\Desktop\Egeders pdfleri\Final\Görsel Programlama\61190000076-GP1-IO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Casper\Desktop\Egeders pdfleri\Final\Görsel Programlama\61190000076-GP1-IO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Metineditor.csproj.GenerateResource.Cache
+F:\EGe üni\Egeders pdfleri\Final\Görsel Programlama\61190000076-GP1-IO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Metineditor.csprojAssemblyReference.cache
+F:\EGe üni\Egeders pdfleri\Final\Görsel Programlama\61190000076-GP1-IO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\EGe üni\Egeders pdfleri\Final\Görsel Programlama\61190000076-GP1-IO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\EGe üni\Egeders pdfleri\Final\Görsel Programlama\61190000076-GP1-IO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Metineditor.csproj.GenerateResource.cache
+F:\EGe üni\Egeders pdfleri\Final\Görsel Programlama\61190000076-GP1-IO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Metineditor.csproj.CoreCompileInputs.cache
+F:\EGe üni\Egeders pdfleri\Final\Görsel Programlama\61190000076-GP1-IO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\EGe üni\Egeders pdfleri\Final\Görsel Programlama\61190000076-GP1-IO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\EGe üni\Egeders pdfleri\Final\Görsel Programlama\61190000076-GP1-IO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\EGe üni\Egeders pdfleri\Final\Görsel Programlama\61190000076-GP1-IO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
